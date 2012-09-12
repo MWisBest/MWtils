@@ -1,7 +1,7 @@
 /*
  * This file is part of MWtils.
  *
- * Copyright Â© 2012, Kyle Repinski
+ * Copyright © 2012, Kyle Repinski
  * MWtils is licensed under the GNU Lesser General Public License.
  *
  * MWtils is free software: you can redistribute it and/or modify
